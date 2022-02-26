@@ -12,6 +12,8 @@ The differences are as follows:
 
 Borrowed some code from andrebrait and benschaeff layouts.
 
+Also followed this somewhat: https://www.reddit.com/r/glorious/comments/okrbjg/peeps_qmk_and_via_rgb_guide_only_for_ansi/
+
 # Encoder
 Holding alt and scrolling encoder will allow scrolling through applications, as if using alt + tab  
 Holding ctrl and scrolling encoder will allow scrolling through chrome tabs 
