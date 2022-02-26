@@ -1,4 +1,4 @@
-# TommyGao's GMMK Pro layout
+# Tommy's GMMK Pro layout for qmk firmware
 
 This is pretty much the stock layout with a few things moved around.
 
