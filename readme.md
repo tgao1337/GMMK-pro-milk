@@ -10,6 +10,8 @@ The differences are as follows:
 - RGB turns off when USB is suspended
 - Fn + PrintScreen is Calculator
 
+Borrowed some code from andrebrait and benschaeff layouts.
+
 # Encoder
 Holding alt and scrolling encoder will allow scrolling through applications, as if using alt + tab  
 Holding ctrl and scrolling encoder will allow scrolling through chrome tabs 
